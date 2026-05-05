@@ -7,11 +7,6 @@ Il s'agit d'une simulation académique utilisant la méthode Agile.
 ## Objectif
 Organiser le projet avec Product Backlog, Sprints et User Stories.
 
-## Présentation
-
- Cliquez ici pour voir la présentation :[voir PDF](presentation_smart_home.pdf)
-
-
 ## Outil utilisé
 - Trello
   Organisation du projet avec la méthode Agile :
