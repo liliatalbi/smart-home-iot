@@ -18,6 +18,7 @@ Organiser le projet avec Product Backlog, Sprints et User Stories.
 - Détection de mouvement
 - Détection de fumée
 - Notifications
+- Système de communication IoT
 
 ## Méthodologie
 - Product Backlog
