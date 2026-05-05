@@ -7,11 +7,6 @@ Il s'agit d'une simulation académique utilisant la méthode Agile.
 ## Objectif
 Organiser le projet avec Product Backlog, Sprints et User Stories.
 
-## Présentation
-Cliquez pour voir la présentation du projet :
-
-[Design Thinking pour Smart Home](Design%20Thinking%20pour%20Smart%20Home.pdf)
-
 ## Outil utilisé
 - Trello
   Organisation du projet avec la méthode Agile :
